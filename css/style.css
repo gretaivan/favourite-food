@@ -18,6 +18,25 @@ h2.center{
 #logo{
     font-size: 30px;
 }
+ article {
+     height: 100%;
+     
+ }
+
+.left-padding{
+    padding-left: 20%;
+}
+
+h3:first-child{
+    height: 25%;
+    display: flex;
+    align-items: center;
+    text-align: center;
+}
+
+article p{
+    text-align: justify;
+}
 
 footer p.white-font{
     text-transform: uppercase;
