@@ -1,0 +1,24 @@
+body{
+   margin-bottom: 0;
+}
+.white-font{
+    color:azure
+}
+
+h2{
+    font-weight:300;
+}
+
+h2.center{
+    text-align: center;
+    text-transform: uppercase;
+
+}
+
+footer p.white-font{
+    text-transform: uppercase;
+    font-size: 12px;
+    text-align: right;
+    padding-right: 10px;
+}
+
