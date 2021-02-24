@@ -2,6 +2,4 @@
 
 ## Technology used:
 
-HTML
-CSS 
-Bootstrap v5.0 
+HTML | CSS | Bootstrap v5.0 |
