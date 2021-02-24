@@ -1,5 +1,5 @@
 # Quick development website
 
-## Technology used:
+## Tools used:
 
 HTML | CSS | Bootstrap v5.0 |
